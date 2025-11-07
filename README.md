@@ -7,11 +7,11 @@ Estudante de Front end em React do Programa Bolsa Futuro Digital na Softex-PE, f
 - 📚 Atualmente me dedicando em:
 
 <div style="display: inline">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" />
-  &nbsp;<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" />
-  &nbsp;<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" title="JavaScript" />
-  &nbsp;<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" />
-  &nbsp;<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" />
+  &nbsp; &nbsp; &nbsp; <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" />
+  &nbsp; &nbsp;<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" />
+  &nbsp; &nbsp;<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" title="JavaScript" />
+  &nbsp; &nbsp;<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" />
+  &nbsp; &nbsp;<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" />
 </div>
 
 ##
