@@ -3,7 +3,7 @@ Estudante de Front end em React do Programa Bolsa Futuro Digital na Softex-PE, f
 
 - 💻 Apaixonada por **tecnologia**
 - 🎮 Aprecio **jogos** eletrônicos
-- 📊 Bacharel em **Contabilidade**
+- ⚕️ Bacharel em **Contabilidade**
 - 📚 Atualmente me dedicando em:
 
 <div style="display: inline">
@@ -26,6 +26,8 @@ Estudante de Front end em React do Programa Bolsa Futuro Digital na Softex-PE, f
 
 ##
 
+## Estatísticas
+
 <div align="center">
   <a href="https://github.com/EvellinJSilva">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvellinJSilva&layout=compact&langs_count=7&theme=dracula"/>
@@ -35,6 +37,7 @@ Estudante de Front end em React do Programa Bolsa Futuro Digital na Softex-PE, f
 
 ##
 
+## Histórico de Commits
 <div align="center">
   <img src="https://github.com/EvellinJSilva/EvellinJSilva/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
