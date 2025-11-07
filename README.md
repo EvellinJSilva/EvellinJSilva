@@ -1,4 +1,4 @@
-## Oii! Évellin aqui, seja bem vindo(a) :) 
+## Oii, Évellin aqui :) Seja bem vindo(a)!! 
 Estudante de Front end em React do Programa Bolsa Futuro Digital na Softex-PE, formada em Ciências Contábeis pela UFPE, buscando migrar para a carreira de desenvolvedora de softwares.
 
 - 💻 Apaixonada por **tecnologia**
