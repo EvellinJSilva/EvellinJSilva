@@ -17,7 +17,7 @@ Estudante de Front end em React do Programa Bolsa Futuro Digital na Softex-PE, f
 
 ## Me encontre também nas redes sociais:
 
-<a href="linkedin.com/in/évellin-silva-1184b9186"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<a href="https://www.linkedin.com/in/évellin-silva-1184b9186"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 <a href="https://www.instagram.com/evellinjsilva/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
 ##
