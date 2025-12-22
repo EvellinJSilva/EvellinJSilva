@@ -31,8 +31,7 @@ Estudante de Front end em React do Programa Bolsa Futuro Digital na Softex-PE, f
 <div align="center">
   <a href="https://github.com/EvellinJSilva">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvellinJSilva&layout=compact&langs_count=7&theme=dracula"/>
-    &nbsp; &nbsp;
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EvellinJSilva&show_icons=true&theme=dracula&hide=prs&disable_animations=true"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EvellinJSilva&show_icons=true&theme=dracula&disable_animations=true"/>
 </div>
 
 ##
